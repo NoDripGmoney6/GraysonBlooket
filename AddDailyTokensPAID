@@ -1,3 +1,4 @@
+alert("Thank You For Supporting Graysons Small Shop! Enjoy The Script!");
 (async () => { /* This is to prevent "identifier i is already declared errors" */
     let i = document.createElement('iframe');
     document.body.append(i);
